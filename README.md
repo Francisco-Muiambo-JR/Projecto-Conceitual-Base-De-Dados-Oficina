@@ -24,7 +24,7 @@ O banco de dados `Oficina` é composto pelas seguintes tabelas:
 
 O modelo entidade-relacionamento (DER) representa a estrutura do banco de dados e seus relacionamentos. Abaixo está o esquema do banco:
 
-![Diagrama Entidade-Relacionamento (DER)](./images/der_oficina.png)
+![Diagrama Entidade-Relacionamento (DER)](https://github.com/Francisco-Muiambo-JR/Projecto-Conceitual-Base-De-Dados-Oficina/blob/main/Projecto%20Oficina/Oficina_DER.png)
 
 > O diagrama acima ilustra como as tabelas estão interligadas, garantindo a integridade e coerência dos dados.
 
