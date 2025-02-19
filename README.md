@@ -58,7 +58,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests o
 
 ## Autor
 
-- [Seu Nome](https://github.com/Francisco-Muiambo-JR)
+- [Francisco Salomão Muiambo Júnior](https://github.com/Francisco-Muiambo-JR)
 
 ---
 Dúvidas? Entre em contato! 😊
