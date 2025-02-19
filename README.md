@@ -30,9 +30,10 @@ O modelo entidade-relacionamento (DER) representa a estrutura do banco de dados 
 
 ## Scripts Disponíveis
 
-- [Criação do Banco de Dados e Tabelas]([./scripts/create_database.sql](https://github.com/Francisco-Muiambo-JR/Projecto-Conceitual-Base-De-Dados-Oficina/blob/main/Projecto%20Oficina/Oficina_Criacao.sql)
-- [Inserção de Dados](https://github.com/Francisco-Muiambo-JR/Projecto-Conceitual-Base-De-Dados-Oficina/blob/main/Projecto%20Oficina/Oficina_Consulta.sql)
-- [Consultas SQL](./scripts/queries.sql)
+- [Criação do Banco de Dados e Tabelas](https://github.com/Francisco-Muiambo-JR/Projecto-Conceitual-Base-De-Dados-Oficina/blob/main/Projecto%20Oficina/Oficina_Criacao.sql)
+- [Inserção de Dados](https://github.com/Francisco-Muiambo-JR/Projecto-Conceitual-Base-De-Dados-Oficina/blob/main/Projecto%20Oficina/Oficina_Inserc%C3%A3o.sql
+)
+- [Consultas SQL](https://github.com/Francisco-Muiambo-JR/Projecto-Conceitual-Base-De-Dados-Oficina/blob/main/Projecto%20Oficina/Oficina_Consulta.sql)
 
 ## Funcionalidades Implementadas
 
